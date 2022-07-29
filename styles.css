@@ -61,12 +61,13 @@ body {
     height: 165px;
   }
   .navbar img{
-    height: 60px;
-    width: 60px; 
+    height: 70px;
+    width: 70px; 
     margin-top: -10px;
+    margin-left: -15px;
   }
   .items a{
-    margin-top: -30px;
+    margin-top: -23px;
     margin-left: -20px;
     margin-right: -8px;
     font-size: 16px;
